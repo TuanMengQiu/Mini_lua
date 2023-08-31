@@ -16,3 +16,8 @@
 - 安装Python3
 -  配置Python3环境变量
 -  运行代码复制粘贴到迷你地图的脚本选项里,聊天框输入model模型id 即可使用
+-  # bianshen.java
+- 下载安装IntelliJ IDEA
+- 安装Java-jdk20
+-  配置Java环境变量
+-  运行代码复制粘贴到迷你地图的脚本选项里,聊天框输入model模型id 即可使用
